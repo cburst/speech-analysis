@@ -119,6 +119,7 @@ This toolkit supports:
 - Designed for research and educational use.
 - Azure scores reflect system-specific calibration and may differ from human rating scales.
 - Researchers should validate automated scores within their own instructional or research context before using them for consequential assessment.
+- The associated manuscript and dataset will be made publicly available upon publication.
 
 ---
 
