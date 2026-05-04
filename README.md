@@ -45,8 +45,8 @@ Live demo: https://speech-analysis.pages.dev/
 ## 📁 Repository Structure
 
 ```text
-speechquality1Lproc.py       → Azure scoring scripts
-heatmapper.py                → Visualization scripts
+speechquality1Lproc.py       → pronunciation processing script
+heatmapper.py                → Visualization script
 /speech-analysis-site/       → index.html + upload.js
 ```
 
