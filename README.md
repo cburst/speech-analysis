@@ -75,18 +75,11 @@ language       = "en-US"
 
 ### Google Credentials
 
-Some scripts require a Google credentials file.
+Pronunciation processing script requires a Google credentials file.
 
 1. Create a Google Cloud service account.
 2. Download the JSON credentials file.
 3. Place the credentials file somewhere safe on your computer.
-4. Update the relevant script path or set an environment variable:
-
-```bash
-export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials.json"
-```
-
-Do **not** upload private API keys or credentials files to GitHub.
 
 ---
 
