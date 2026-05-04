@@ -1,0 +1,96 @@
+# Custom Source-Available License (Non-Production Use Only)
+
+Copyright (c) 2026 R ROSE
+
+---
+
+## 1. Definitions
+
+**“Licensed Work”** means the software and associated documentation made available under this License.
+
+**“Non-Production Use”** means use of the Licensed Work solely for personal, educational, research, or internal evaluation purposes, and **not** for:
+
+- Providing services to third parties  
+- Processing data for third parties as part of a service  
+- Generating revenue, directly or indirectly  
+- Supporting business operations beyond internal evaluation or testing  
+
+Any use outside of Non-Production Use is considered **“Production Use.”**
+
+---
+
+## 2. License Grant
+
+The Licensor hereby grants you a non-exclusive, worldwide, royalty-free license to:
+
+- Copy the Licensed Work  
+- Modify the Licensed Work  
+- Create derivative works of the Licensed Work  
+- Redistribute the Licensed Work and derivative works  
+
+**Provided that** all such use is limited to **Non-Production Use**.
+
+---
+
+## 3. Production Use Restriction
+
+You may not use the Licensed Work for **Production Use** unless you obtain a separate commercial license from the Licensor, its affiliates, or authorized resellers.
+
+If your use does not qualify as Non-Production Use, you must:
+
+- Purchase a commercial license; or  
+- Immediately cease use of the Licensed Work  
+
+---
+
+## 4. Scope and Applicability
+
+- This License applies to all copies, modifications, and derivative works of the Licensed Work  
+- This License applies separately to each version of the Licensed Work  
+- All rights granted under this License are subject to its terms and conditions  
+
+---
+
+## 5. Distribution Requirements
+
+You must:
+
+- Include this License in all copies or substantial portions of the Licensed Work  
+- Conspicuously display this License in any redistributed version  
+
+If you receive the Licensed Work from a third party, this License governs your use of that work.
+
+---
+
+## 6. Termination
+
+Any use of the Licensed Work in violation of this License will automatically terminate your rights under this License.
+
+Upon termination, you must immediately cease all use and distribution of the Licensed Work.
+
+---
+
+## 7. Trademarks
+
+This License does not grant any rights to use the Licensor’s:
+
+- Trademarks  
+- Service marks  
+- Logos  
+
+except as required to comply with this License.
+
+---
+
+## 8. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY  
+- FITNESS FOR A PARTICULAR PURPOSE  
+- NON-INFRINGEMENT  
+- TITLE  
+
+## 9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
